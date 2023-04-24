@@ -41,21 +41,21 @@ Pretending to be que manager by setting ticket priority
 <br />
 
 <p>
-<img src="https://i.imgur.com/3fOzjTO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/T9CxwrH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Pretending to be que manager by assigning tickets to diff agents.
 </p>
 <br />
 <p>
-<img src="https://i.imgur.com/zNTJe6X.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/nxWo8Dk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Transfer tickets from helpdesk to system admin to resolve ticket
 </p>
 <br />
 <p>
-<img src="https://i.imgur.com/hZGTXT1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/hH2e2cD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Resign ticket to system admin
