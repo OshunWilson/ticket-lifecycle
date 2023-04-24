@@ -44,7 +44,7 @@ Pretending to be que manager by setting ticket priority
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-pretending to be que manager by assigning tickets to diff agents.
+Pretending to be que manager by assigning tickets to diff agents.
 </p>
 <br />
 <p>
