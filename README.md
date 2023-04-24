@@ -55,7 +55,7 @@ Transfer tickets from helpdesk to system admin to resolve ticket
 </p>
 <br />
 <p>
-<img src="https://i.imgur.com/hH2e2cD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/OeS5hBc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Resign ticket to system admin
